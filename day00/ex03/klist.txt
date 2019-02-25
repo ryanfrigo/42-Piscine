@@ -1,0 +1,6 @@
+Credentials cache: API:35628
+        Principal: rfrigo@42.US.ORG
+
+  Issued                Expires               Principal
+Aug 21 20:29:41 2018  Aug 22 06:29:41 2018  krbtgt/42.US.ORG@42.US.ORG
+Aug 21 20:29:43 2018  Aug 22 06:29:41 2018  ldap/ldap-master.42.us.org@42.US.ORG
